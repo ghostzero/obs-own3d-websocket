@@ -33,10 +33,10 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "pro.own3d.own3d-pro-connector"
+            "bundleId": "pro.own3d.obs-own3d-pro-connector"
         }
     },
-    "name": "own3d-pro-connector",
+    "name": "obs-own3d-pro-connector",
     "displayName": "OWN3D Pro Connector",
     "version": "1.0.0",
     "author": "StreamTV Media GmbH",
