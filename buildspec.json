@@ -33,16 +33,16 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.obs-plugintemplate"
+            "bundleId": "pro.own3d.obs-own3d-pro-connector"
         }
     },
-    "name": "obs-plugintemplate",
-    "displayName": "OBS Plugin Template",
+    "name": "obs-own3d-pro-connector",
+    "displayName": "OWN3D Pro Connector",
     "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "author": "StreamTV Media GmbH",
+    "website": "https://www.own3d.pro",
+    "email": "developers@stream.tv",
     "uuids": {
-        "windowsApp": "00000000-0000-0000-0000-000000000000"
+        "windowsApp": "9d09e12a-db4a-413e-bf1e-d361c316ff54"
     }
 }
